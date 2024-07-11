@@ -1,11 +1,14 @@
-Output ./Recordings/logging.ascii
-Output ./Recordings/logging.gif
+Output Recordings/table.ascii
+Output Recordings/table.gif
 
-Set width 1600
-Set height 1050
+Require echo
 
-Tape "cli logging"
-Enter
-Sleep 100s
-Enter 
-Sleep 100s
+# Set Shell "bash"
+Set FontSize 32
+Set Width 1600
+Set Height 800
+
+Type@500ms "cli table" Sleep 500ms  Enter
+
+Sleep 10s
+
