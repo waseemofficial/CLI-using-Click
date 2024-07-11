@@ -41,6 +41,11 @@
 
 </div>
 
+
+>
+> Use cli_commands.sh to check cli functionality 
+>
+
 ### Setup
 ```py
 from setuptools import setup, find_packages
