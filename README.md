@@ -56,7 +56,7 @@ setup(
 
 #### Using VHS for gif Recording
 
-### instalarion 
+### installation  
 
 > `scoop install vhs`
 
@@ -68,15 +68,20 @@ setup(
 using setup tools we can create a cli tool.
 `pip install --editable .`
 
+## Print Hello
+`cli hello`
+
+<img src="https://github.com/waseemofficial/CLI-using-Click/blob/main/CLI/Recordings/hello.gif" width="1000" height="600"/>
+
 ## Logging
 `cli logging`
 
-<img src="https://github.com/waseemofficial/CLI-using-Click/blob/main/CLI/Recordings/logging.gif" width="1000" height="800"/>
+<img src="https://github.com/waseemofficial/CLI-using-Click/blob/main/CLI/Recordings/logging.gif" width="1000" height="600"/>
 
 ## Table
 `cli table`
 
-<img src="https://github.com/waseemofficial/CLI-using-Click/blob/main/CLI/Recordings/table.gif" width="1000" height="800"/>
+<img src="https://github.com/waseemofficial/CLI-using-Click/blob/main/CLI/Recordings/table.gif" width="1000" height="600"/>
 ## CSV file viewer
 `cli viewers csv ./data/population.csv --has-header -n 10 --format github`
 
@@ -85,3 +90,5 @@ using setup tools we can create a cli tool.
 
 ## View JSON file 
 `cli viewers json ./data/test.json -n 25`
+
+<img src="https://github.com/waseemofficial/CLI-using-Click/blob/main/CLI/Recordings/viewCsv.gif" width="1000" height="600"/>
