@@ -1,0 +1,14 @@
+main.py
+setup.cfg
+setup.py
+converters/__init__.py
+converters/csv_converter.py
+my_first_cli.egg-info/PKG-INFO
+my_first_cli.egg-info/SOURCES.txt
+my_first_cli.egg-info/dependency_links.txt
+my_first_cli.egg-info/entry_points.txt
+my_first_cli.egg-info/top_level.txt
+viewers/__init__.py
+viewers/csv_viewer.py
+viewers/enums.py
+viewers/json_viewer.py
