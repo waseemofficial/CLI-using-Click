@@ -1,0 +1,1331 @@
+[{
+"country": "Aruba",
+"code": "ABW",
+"Y2020": "106766",
+"Y2021": "107195"
+},{
+"country": "Africa Eastern and Southern",
+"code": "AFE",
+"Y2020": "677243299",
+"Y2021": "694665117"
+},{
+"country": "Afghanistan",
+"code": "AFG",
+"Y2020": "38928341",
+"Y2021": "39835428"
+},{
+"country": "Africa Western and Central",
+"code": "AFW",
+"Y2020": "458803476",
+"Y2021": "470898870"
+},{
+"country": "Angola",
+"code": "AGO",
+"Y2020": "32866268",
+"Y2021": "33933611"
+},{
+"country": "Albania",
+"code": "ALB",
+"Y2020": "2837849",
+"Y2021": "2811666"
+},{
+"country": "Andorra",
+"code": "AND",
+"Y2020": "77265",
+"Y2021": "77354"
+},{
+"country": "Arab World",
+"code": "ARB",
+"Y2020": "436080728",
+"Y2021": "444517783"
+},{
+"country": "United Arab Emirates",
+"code": "ARE",
+"Y2020": "9890400",
+"Y2021": "9991083"
+},{
+"country": "Argentina",
+"code": "ARG",
+"Y2020": "45376763",
+"Y2021": "45808747"
+},{
+"country": "Armenia",
+"code": "ARM",
+"Y2020": "2963234",
+"Y2021": "2968128"
+},{
+"country": "American Samoa",
+"code": "ASM",
+"Y2020": "55197",
+"Y2021": "55103"
+},{
+"country": "Antigua and Barbuda",
+"code": "ATG",
+"Y2020": "97928",
+"Y2021": "98728"
+},{
+"country": "Australia",
+"code": "AUS",
+"Y2020": "25693267",
+"Y2021": "25739256"
+},{
+"country": "Austria",
+"code": "AUT",
+"Y2020": "8916864",
+"Y2021": "8956279"
+},{
+"country": "Azerbaijan",
+"code": "AZE",
+"Y2020": "10093121",
+"Y2021": "10145212"
+},{
+"country": "Burundi",
+"code": "BDI",
+"Y2020": "11890781",
+"Y2021": "12255429"
+},{
+"country": "Belgium",
+"code": "BEL",
+"Y2020": "11544241",
+"Y2021": "11587882"
+},{
+"country": "Benin",
+"code": "BEN",
+"Y2020": "12123198",
+"Y2021": "12451031"
+},{
+"country": "Burkina Faso",
+"code": "BFA",
+"Y2020": "20903278",
+"Y2021": "21497097"
+},{
+"country": "Bangladesh",
+"code": "BGD",
+"Y2020": "164689383",
+"Y2021": "166303494"
+},{
+"country": "Bulgaria",
+"code": "BGR",
+"Y2020": "6934015",
+"Y2021": "6899125"
+},{
+"country": "Bahrain",
+"code": "BHR",
+"Y2020": "1701583",
+"Y2021": "1748295"
+},{
+"country": "Bahamas, The",
+"code": "BHS",
+"Y2020": "393248",
+"Y2021": "396914"
+},{
+"country": "Bosnia and Herzegovina",
+"code": "BIH",
+"Y2020": "3280815",
+"Y2021": "3263459"
+},{
+"country": "Belarus",
+"code": "BLR",
+"Y2020": "9379952",
+"Y2021": "9340314"
+},{
+"country": "Belize",
+"code": "BLZ",
+"Y2020": "397621",
+"Y2021": "404915"
+},{
+"country": "Bermuda",
+"code": "BMU",
+"Y2020": "63893",
+"Y2021": "63867"
+},{
+"country": "Bolivia",
+"code": "BOL",
+"Y2020": "11673029",
+"Y2021": "11832936"
+},{
+"country": "Brazil",
+"code": "BRA",
+"Y2020": "212559409",
+"Y2021": "213993441"
+},{
+"country": "Barbados",
+"code": "BRB",
+"Y2020": "287371",
+"Y2021": "287708"
+},{
+"country": "Brunei Darussalam",
+"code": "BRN",
+"Y2020": "437483",
+"Y2021": "441532"
+},{
+"country": "Bhutan",
+"code": "BTN",
+"Y2020": "771612",
+"Y2021": "779900"
+},{
+"country": "Botswana",
+"code": "BWA",
+"Y2020": "2351625",
+"Y2021": "2397240"
+},{
+"country": "Central African Republic",
+"code": "CAF",
+"Y2020": "4829764",
+"Y2021": "4919987"
+},{
+"country": "Canada",
+"code": "CAN",
+"Y2020": "38037204",
+"Y2021": "38246108"
+},{
+"country": "Central Europe and the Baltics",
+"code": "CEB",
+"Y2020": "102172351",
+"Y2021": "101669618"
+},{
+"country": "Switzerland",
+"code": "CHE",
+"Y2020": "8636561",
+"Y2021": "8697723"
+},{
+"country": "Channel Islands",
+"code": "CHI",
+"Y2020": "173859",
+"Y2021": "175244"
+},{
+"country": "Chile",
+"code": "CHL",
+"Y2020": "19116209",
+"Y2021": "19212362"
+},{
+"country": "China",
+"code": "CHN",
+"Y2020": "1411100000",
+"Y2021": "1412360000"
+},{
+"country": "Cote d'Ivoire",
+"code": "CIV",
+"Y2020": "26378275",
+"Y2021": "27053629"
+},{
+"country": "Cameroon",
+"code": "CMR",
+"Y2020": "26545864",
+"Y2021": "27224262"
+},{
+"country": "Congo, Dem. Rep.",
+"code": "COD",
+"Y2020": "89561404",
+"Y2021": "92377986"
+},{
+"country": "Congo, Rep.",
+"code": "COG",
+"Y2020": "5518092",
+"Y2021": "5657017"
+},{
+"country": "Colombia",
+"code": "COL",
+"Y2020": "50882884",
+"Y2021": "51265841"
+},{
+"country": "Comoros",
+"code": "COM",
+"Y2020": "869595",
+"Y2021": "888456"
+},{
+"country": "Cabo Verde",
+"code": "CPV",
+"Y2020": "555988",
+"Y2021": "561901"
+},{
+"country": "Costa Rica",
+"code": "CRI",
+"Y2020": "5094114",
+"Y2021": "5139053"
+},{
+"country": "Caribbean small states",
+"code": "CSS",
+"Y2020": "7442291",
+"Y2021": "7481631"
+},{
+"country": "Cuba",
+"code": "CUB",
+"Y2020": "11326616",
+"Y2021": "11317498"
+},{
+"country": "Curacao",
+"code": "CUW",
+"Y2020": "154947",
+"Y2021": "152369"
+},{
+"country": "Cayman Islands",
+"code": "CYM",
+"Y2020": "65720",
+"Y2021": "66498"
+},{
+"country": "Cyprus",
+"code": "CYP",
+"Y2020": "1207361",
+"Y2021": "1215588"
+},{
+"country": "Czech Republic",
+"code": "CZE",
+"Y2020": "10697858",
+"Y2021": "10703446"
+},{
+"country": "Germany",
+"code": "DEU",
+"Y2020": "83160871",
+"Y2021": "83129285"
+},{
+"country": "Djibouti",
+"code": "DJI",
+"Y2020": "988002",
+"Y2021": "1002197"
+},{
+"country": "Dominica",
+"code": "DMA",
+"Y2020": "71991",
+"Y2021": "72172"
+},{
+"country": "Denmark",
+"code": "DNK",
+"Y2020": "5831404",
+"Y2021": "5856733"
+},{
+"country": "Dominican Republic",
+"code": "DOM",
+"Y2020": "10847904",
+"Y2021": "10953714"
+},{
+"country": "Algeria",
+"code": "DZA",
+"Y2020": "43851043",
+"Y2021": "44616626"
+},{
+"country": "East Asia & Pacific (excluding high income)",
+"code": "EAP",
+"Y2020": "2114009483",
+"Y2021": "2122086315"
+},{
+"country": "Early-demographic dividend",
+"code": "EAR",
+"Y2020": "3332103561",
+"Y2021": "3373866849"
+},{
+"country": "East Asia & Pacific",
+"code": "EAS",
+"Y2020": "2361517682",
+"Y2021": "2368622859"
+},{
+"country": "Europe & Central Asia (excluding high income)",
+"code": "ECA",
+"Y2020": "400895993",
+"Y2021": "401828885"
+},{
+"country": "Europe & Central Asia",
+"code": "ECS",
+"Y2020": "922976036",
+"Y2021": "923753699"
+},{
+"country": "Ecuador",
+"code": "ECU",
+"Y2020": "17643060",
+"Y2021": "17888474"
+},{
+"country": "Egypt, Arab Rep.",
+"code": "EGY",
+"Y2020": "102334403",
+"Y2021": "104258327"
+},{
+"country": "Euro area",
+"code": "EMU",
+"Y2020": "342708355",
+"Y2021": "342566541"
+},{
+"country": "Eritrea",
+"code": "ERI",
+"Y2020": "",
+"Y2021": ""
+},{
+"country": "Spain",
+"code": "ESP",
+"Y2020": "47363419",
+"Y2021": "47326687"
+},{
+"country": "Estonia",
+"code": "EST",
+"Y2020": "1329479",
+"Y2021": "1329254"
+},{
+"country": "Ethiopia",
+"code": "ETH",
+"Y2020": "114963583",
+"Y2021": "117876226"
+},{
+"country": "European Union",
+"code": "EUU",
+"Y2020": "447479493",
+"Y2021": "446946712"
+},{
+"country": "Fragile and conflict affected situations",
+"code": "FCS",
+"Y2020": "930004306",
+"Y2021": "952400963"
+},{
+"country": "Finland",
+"code": "FIN",
+"Y2020": "5529543",
+"Y2021": "5541696"
+},{
+"country": "Fiji",
+"code": "FJI",
+"Y2020": "896444",
+"Y2021": "902899"
+},{
+"country": "France",
+"code": "FRA",
+"Y2020": "67379908",
+"Y2021": "67499343"
+},{
+"country": "Faroe Islands",
+"code": "FRO",
+"Y2020": "48865",
+"Y2021": "49053"
+},{
+"country": "Micronesia, Fed. Sts.",
+"code": "FSM",
+"Y2020": "115021",
+"Y2021": "116255"
+},{
+"country": "Gabon",
+"code": "GAB",
+"Y2020": "2225728",
+"Y2021": "2278829"
+},{
+"country": "United Kingdom",
+"code": "GBR",
+"Y2020": "67081000",
+"Y2021": "67326569"
+},{
+"country": "Georgia",
+"code": "GEO",
+"Y2020": "3722716",
+"Y2021": "3708610"
+},{
+"country": "Ghana",
+"code": "GHA",
+"Y2020": "31072945",
+"Y2021": "31732128"
+},{
+"country": "Gibraltar",
+"code": "GIB",
+"Y2020": "33691",
+"Y2021": "33691"
+},{
+"country": "Guinea",
+"code": "GIN",
+"Y2020": "13132792",
+"Y2021": "13497237"
+},{
+"country": "Gambia, The",
+"code": "GMB",
+"Y2020": "2416664",
+"Y2021": "2486937"
+},{
+"country": "Guinea-Bissau",
+"code": "GNB",
+"Y2020": "1967998",
+"Y2021": "2015490"
+},{
+"country": "Equatorial Guinea",
+"code": "GNQ",
+"Y2020": "1402985",
+"Y2021": "1449891"
+},{
+"country": "Greece",
+"code": "GRC",
+"Y2020": "10700556",
+"Y2021": "10664568"
+},{
+"country": "Grenada",
+"code": "GRD",
+"Y2020": "112519",
+"Y2021": "113015"
+},{
+"country": "Greenland",
+"code": "GRL",
+"Y2020": "56367",
+"Y2021": "56653"
+},{
+"country": "Guatemala",
+"code": "GTM",
+"Y2020": "16858333",
+"Y2021": "17109746"
+},{
+"country": "Guam",
+"code": "GUM",
+"Y2020": "168783",
+"Y2021": "170184"
+},{
+"country": "Guyana",
+"code": "GUY",
+"Y2020": "786559",
+"Y2021": "790329"
+},{
+"country": "High income",
+"code": "HIC",
+"Y2020": "1240684527",
+"Y2021": "1241374277"
+},{
+"country": "Hong Kong SAR, China",
+"code": "HKG",
+"Y2020": "7481000",
+"Y2021": "7413100"
+},{
+"country": "Honduras",
+"code": "HND",
+"Y2020": "9904608",
+"Y2021": "10062994"
+},{
+"country": "Heavily indebted poor countries (HIPC)",
+"code": "HPC",
+"Y2020": "823480038",
+"Y2021": "845522272"
+},{
+"country": "Croatia",
+"code": "HRV",
+"Y2020": "4047680",
+"Y2021": "3899000"
+},{
+"country": "Haiti",
+"code": "HTI",
+"Y2020": "11402533",
+"Y2021": "11541683"
+},{
+"country": "Hungary",
+"code": "HUN",
+"Y2020": "9750149",
+"Y2021": "9709886"
+},{
+"country": "IBRD only",
+"code": "IBD",
+"Y2020": "4862446431",
+"Y2021": "4895295243"
+},{
+"country": "IDA & IBRD total",
+"code": "IBT",
+"Y2020": "6571053159",
+"Y2021": "6642614110"
+},{
+"country": "IDA total",
+"code": "IDA",
+"Y2020": "1708606728",
+"Y2021": "1747318867"
+},{
+"country": "IDA blend",
+"code": "IDB",
+"Y2020": "574159138",
+"Y2021": "586883422"
+},{
+"country": "Indonesia",
+"code": "IDN",
+"Y2020": "273523621",
+"Y2021": "276361788"
+},{
+"country": "IDA only",
+"code": "IDX",
+"Y2020": "1134447590",
+"Y2021": "1160435445"
+},{
+"country": "Isle of Man",
+"code": "IMN",
+"Y2020": "85032",
+"Y2021": "85410"
+},{
+"country": "India",
+"code": "IND",
+"Y2020": "1380004385",
+"Y2021": "1393409033"
+},{
+"country": "Not classified",
+"code": "INX",
+"Y2020": "",
+"Y2021": ""
+},{
+"country": "Ireland",
+"code": "IRL",
+"Y2020": "4985674",
+"Y2021": "5028230"
+},{
+"country": "Iran, Islamic Rep.",
+"code": "IRN",
+"Y2020": "83992953",
+"Y2021": "85028760"
+},{
+"country": "Iraq",
+"code": "IRQ",
+"Y2020": "40222503",
+"Y2021": "41179351"
+},{
+"country": "Iceland",
+"code": "ISL",
+"Y2020": "366463",
+"Y2021": "372295"
+},{
+"country": "Israel",
+"code": "ISR",
+"Y2020": "9215100",
+"Y2021": "9364000"
+},{
+"country": "Italy",
+"code": "ITA",
+"Y2020": "59449527",
+"Y2021": "59066225"
+},{
+"country": "Jamaica",
+"code": "JAM",
+"Y2020": "2961161",
+"Y2021": "2973462"
+},{
+"country": "Jordan",
+"code": "JOR",
+"Y2020": "10203140",
+"Y2021": "10269022"
+},{
+"country": "Japan",
+"code": "JPN",
+"Y2020": "126261000",
+"Y2021": "125681593"
+},{
+"country": "Kazakhstan",
+"code": "KAZ",
+"Y2020": "18755666",
+"Y2021": "19002586"
+},{
+"country": "Kenya",
+"code": "KEN",
+"Y2020": "53771300",
+"Y2021": "54985702"
+},{
+"country": "Kyrgyz Republic",
+"code": "KGZ",
+"Y2020": "6579900",
+"Y2021": "6694200"
+},{
+"country": "Cambodia",
+"code": "KHM",
+"Y2020": "16718971",
+"Y2021": "16946446"
+},{
+"country": "Kiribati",
+"code": "KIR",
+"Y2020": "119446",
+"Y2021": "121388"
+},{
+"country": "St. Kitts and Nevis",
+"code": "KNA",
+"Y2020": "53192",
+"Y2021": "53546"
+},{
+"country": "Korea, Rep.",
+"code": "KOR",
+"Y2020": "51836239",
+"Y2021": "51744876"
+},{
+"country": "Kuwait",
+"code": "KWT",
+"Y2020": "4270563",
+"Y2021": "4328553"
+},{
+"country": "Latin America & Caribbean (excluding high income)",
+"code": "LAC",
+"Y2020": "590928198",
+"Y2021": "596217644"
+},{
+"country": "Lao PDR",
+"code": "LAO",
+"Y2020": "7275556",
+"Y2021": "7379358"
+},{
+"country": "Lebanon",
+"code": "LBN",
+"Y2020": "6825442",
+"Y2021": "6769151"
+},{
+"country": "Liberia",
+"code": "LBR",
+"Y2020": "5057677",
+"Y2021": "5180208"
+},{
+"country": "Libya",
+"code": "LBY",
+"Y2020": "6871287",
+"Y2021": "6958538"
+},{
+"country": "St. Lucia",
+"code": "LCA",
+"Y2020": "183629",
+"Y2021": "184401"
+},{
+"country": "Latin America & Caribbean",
+"code": "LCN",
+"Y2020": "652365260",
+"Y2021": "658089208"
+},{
+"country": "Least developed countries: UN classification",
+"code": "LDC",
+"Y2020": "1057131013",
+"Y2021": "1081504804"
+},{
+"country": "Low income",
+"code": "LIC",
+"Y2020": "683532991",
+"Y2021": "701926973"
+},{
+"country": "Liechtenstein",
+"code": "LIE",
+"Y2020": "38137",
+"Y2021": "38254"
+},{
+"country": "Sri Lanka",
+"code": "LKA",
+"Y2020": "21919000",
+"Y2021": "22156000"
+},{
+"country": "Lower middle income",
+"code": "LMC",
+"Y2020": "3318682068",
+"Y2021": "3363196656"
+},{
+"country": "Low & middle income",
+"code": "LMY",
+"Y2020": "6494812232",
+"Y2021": "6566551568"
+},{
+"country": "Lesotho",
+"code": "LSO",
+"Y2020": "2142252",
+"Y2021": "2159067"
+},{
+"country": "Late-demographic dividend",
+"code": "LTE",
+"Y2020": "2316803603",
+"Y2021": "2322070390"
+},{
+"country": "Lithuania",
+"code": "LTU",
+"Y2020": "2794885",
+"Y2021": "2795321"
+},{
+"country": "Luxembourg",
+"code": "LUX",
+"Y2020": "630419",
+"Y2021": "639070"
+},{
+"country": "Latvia",
+"code": "LVA",
+"Y2020": "1900449",
+"Y2021": "1883162"
+},{
+"country": "Macao SAR, China",
+"code": "MAC",
+"Y2020": "649342",
+"Y2021": "658391"
+},{
+"country": "St. Martin (French part)",
+"code": "MAF",
+"Y2020": "38659",
+"Y2021": "39239"
+},{
+"country": "Morocco",
+"code": "MAR",
+"Y2020": "36910558",
+"Y2021": "37344787"
+},{
+"country": "Monaco",
+"code": "MCO",
+"Y2020": "39244",
+"Y2021": "39520"
+},{
+"country": "Moldova",
+"code": "MDA",
+"Y2020": "2620495",
+"Y2021": "2573928"
+},{
+"country": "Madagascar",
+"code": "MDG",
+"Y2020": "27691019",
+"Y2021": "28427333"
+},{
+"country": "Maldives",
+"code": "MDV",
+"Y2020": "540542",
+"Y2021": "543620"
+},{
+"country": "Middle East & North Africa",
+"code": "MEA",
+"Y2020": "464542370",
+"Y2021": "472494995"
+},{
+"country": "Mexico",
+"code": "MEX",
+"Y2020": "128932753",
+"Y2021": "130262220"
+},{
+"country": "Marshall Islands",
+"code": "MHL",
+"Y2020": "59194",
+"Y2021": "59618"
+},{
+"country": "Middle income",
+"code": "MIC",
+"Y2020": "5811279241",
+"Y2021": "5864624595"
+},{
+"country": "North Macedonia",
+"code": "MKD",
+"Y2020": "2072531",
+"Y2021": "2065092"
+},{
+"country": "Mali",
+"code": "MLI",
+"Y2020": "20250834",
+"Y2021": "20855724"
+},{
+"country": "Malta",
+"code": "MLT",
+"Y2020": "515332",
+"Y2021": "516869"
+},{
+"country": "Myanmar",
+"code": "MMR",
+"Y2020": "54409794",
+"Y2021": "54806014"
+},{
+"country": "Middle East & North Africa (excluding high income)",
+"code": "MNA",
+"Y2020": "396147843",
+"Y2021": "403051615"
+},{
+"country": "Montenegro",
+"code": "MNE",
+"Y2020": "621306",
+"Y2021": "620173"
+},{
+"country": "Mongolia",
+"code": "MNG",
+"Y2020": "3278292",
+"Y2021": "3329282"
+},{
+"country": "Northern Mariana Islands",
+"code": "MNP",
+"Y2020": "57557",
+"Y2021": "57910"
+},{
+"country": "Mozambique",
+"code": "MOZ",
+"Y2020": "31255435",
+"Y2021": "32163045"
+},{
+"country": "Mauritania",
+"code": "MRT",
+"Y2020": "4649660",
+"Y2021": "4775110"
+},{
+"country": "Mauritius",
+"code": "MUS",
+"Y2020": "1265740",
+"Y2021": "1266060"
+},{
+"country": "Malawi",
+"code": "MWI",
+"Y2020": "19129955",
+"Y2021": "19647681"
+},{
+"country": "Malaysia",
+"code": "MYS",
+"Y2020": "32365998",
+"Y2021": "32776195"
+},{
+"country": "North America",
+"code": "NAC",
+"Y2020": "369602177",
+"Y2021": "370203720"
+},{
+"country": "Namibia",
+"code": "NAM",
+"Y2020": "2540916",
+"Y2021": "2587344"
+},{
+"country": "New Caledonia",
+"code": "NCL",
+"Y2020": "271960",
+"Y2021": "272620"
+},{
+"country": "Niger",
+"code": "NER",
+"Y2020": "24206636",
+"Y2021": "25130810"
+},{
+"country": "Nigeria",
+"code": "NGA",
+"Y2020": "206139587",
+"Y2021": "211400704"
+},{
+"country": "Nicaragua",
+"code": "NIC",
+"Y2020": "6624554",
+"Y2021": "6702379"
+},{
+"country": "Netherlands",
+"code": "NLD",
+"Y2020": "17441500",
+"Y2021": "17533405"
+},{
+"country": "Norway",
+"code": "NOR",
+"Y2020": "5379475",
+"Y2021": "5408320"
+},{
+"country": "Nepal",
+"code": "NPL",
+"Y2020": "29136808",
+"Y2021": "29674920"
+},{
+"country": "Nauru",
+"code": "NRU",
+"Y2020": "10834",
+"Y2021": "10873"
+},{
+"country": "New Zealand",
+"code": "NZL",
+"Y2020": "5090200",
+"Y2021": "5122600"
+},{
+"country": "OECD members",
+"code": "OED",
+"Y2020": "1372980201",
+"Y2021": "1375820281"
+},{
+"country": "Oman",
+"code": "OMN",
+"Y2020": "5106622",
+"Y2021": "5223376"
+},{
+"country": "Other small states",
+"code": "OSS",
+"Y2020": "31929881",
+"Y2021": "32464282"
+},{
+"country": "Pakistan",
+"code": "PAK",
+"Y2020": "220892331",
+"Y2021": "225199929"
+},{
+"country": "Panama",
+"code": "PAN",
+"Y2020": "4314768",
+"Y2021": "4381583"
+},{
+"country": "Peru",
+"code": "PER",
+"Y2020": "32971846",
+"Y2021": "33359416"
+},{
+"country": "Philippines",
+"code": "PHL",
+"Y2020": "109581085",
+"Y2021": "111046910"
+},{
+"country": "Palau",
+"code": "PLW",
+"Y2020": "18092",
+"Y2021": "18174"
+},{
+"country": "Papua New Guinea",
+"code": "PNG",
+"Y2020": "8947027",
+"Y2021": "9119005"
+},{
+"country": "Poland",
+"code": "POL",
+"Y2020": "37899070",
+"Y2021": "37781024"
+},{
+"country": "Pre-demographic dividend",
+"code": "PRE",
+"Y2020": "970795671",
+"Y2021": "997158227"
+},{
+"country": "Puerto Rico",
+"code": "PRI",
+"Y2020": "3281538",
+"Y2021": "3263584"
+},{
+"country": "Korea, Dem. People's Rep.",
+"code": "PRK",
+"Y2020": "25778815",
+"Y2021": "25887045"
+},{
+"country": "Portugal",
+"code": "PRT",
+"Y2020": "10297081",
+"Y2021": "10299423"
+},{
+"country": "Paraguay",
+"code": "PRY",
+"Y2020": "7132530",
+"Y2021": "7219641"
+},{
+"country": "West Bank and Gaza",
+"code": "PSE",
+"Y2020": "4803269",
+"Y2021": "4922749"
+},{
+"country": "Pacific island small states",
+"code": "PSS",
+"Y2020": "2528958",
+"Y2021": "2566494"
+},{
+"country": "Post-demographic dividend",
+"code": "PST",
+"Y2020": "1117278019",
+"Y2021": "1116655196"
+},{
+"country": "French Polynesia",
+"code": "PYF",
+"Y2020": "280904",
+"Y2021": "282534"
+},{
+"country": "Qatar",
+"code": "QAT",
+"Y2020": "2881060",
+"Y2021": "2930524"
+},{
+"country": "Romania",
+"code": "ROU",
+"Y2020": "19257520",
+"Y2021": "19115146"
+},{
+"country": "Russian Federation",
+"code": "RUS",
+"Y2020": "144073139",
+"Y2021": "143446060"
+},{
+"country": "Rwanda",
+"code": "RWA",
+"Y2020": "12952209",
+"Y2021": "13276517"
+},{
+"country": "South Asia",
+"code": "SAS",
+"Y2020": "1856882402",
+"Y2021": "1877902324"
+},{
+"country": "Saudi Arabia",
+"code": "SAU",
+"Y2020": "34813867",
+"Y2021": "35340680"
+},{
+"country": "Sudan",
+"code": "SDN",
+"Y2020": "43849269",
+"Y2021": "44909351"
+},{
+"country": "Senegal",
+"code": "SEN",
+"Y2020": "16743930",
+"Y2021": "17196308"
+},{
+"country": "Singapore",
+"code": "SGP",
+"Y2020": "5685807",
+"Y2021": "5453566"
+},{
+"country": "Solomon Islands",
+"code": "SLB",
+"Y2020": "686878",
+"Y2021": "703995"
+},{
+"country": "Sierra Leone",
+"code": "SLE",
+"Y2020": "7976985",
+"Y2021": "8141343"
+},{
+"country": "El Salvador",
+"code": "SLV",
+"Y2020": "6486201",
+"Y2021": "6518500"
+},{
+"country": "San Marino",
+"code": "SMR",
+"Y2020": "33938",
+"Y2021": "34010"
+},{
+"country": "Somalia",
+"code": "SOM",
+"Y2020": "15893219",
+"Y2021": "16359500"
+},{
+"country": "Serbia",
+"code": "SRB",
+"Y2020": "6899126",
+"Y2021": "6844078"
+},{
+"country": "Sub-Saharan Africa (excluding high income)",
+"code": "SSA",
+"Y2020": "1135948313",
+"Y2021": "1165464785"
+},{
+"country": "South Sudan",
+"code": "SSD",
+"Y2020": "11193729",
+"Y2021": "11381377"
+},{
+"country": "Sub-Saharan Africa",
+"code": "SSF",
+"Y2020": "1136046775",
+"Y2021": "1165563987"
+},{
+"country": "Small states",
+"code": "SST",
+"Y2020": "41901130",
+"Y2021": "42512407"
+},{
+"country": "Sao Tome and Principe",
+"code": "STP",
+"Y2020": "219161",
+"Y2021": "223364"
+},{
+"country": "Suriname",
+"code": "SUR",
+"Y2020": "586634",
+"Y2021": "591798"
+},{
+"country": "Slovak Republic",
+"code": "SVK",
+"Y2020": "5458827",
+"Y2021": "5447247"
+},{
+"country": "Slovenia",
+"code": "SVN",
+"Y2020": "2102419",
+"Y2021": "2107007"
+},{
+"country": "Sweden",
+"code": "SWE",
+"Y2020": "10353442",
+"Y2021": "10415811"
+},{
+"country": "Eswatini",
+"code": "SWZ",
+"Y2020": "1160164",
+"Y2021": "1172369"
+},{
+"country": "Sint Maarten (Dutch part)",
+"code": "SXM",
+"Y2020": "42310",
+"Y2021": "42846"
+},{
+"country": "Seychelles",
+"code": "SYC",
+"Y2020": "98462",
+"Y2021": "99202"
+},{
+"country": "Syrian Arab Republic",
+"code": "SYR",
+"Y2020": "17500657",
+"Y2021": "18275704"
+},{
+"country": "Turks and Caicos Islands",
+"code": "TCA",
+"Y2020": "38718",
+"Y2021": "39226"
+},{
+"country": "Chad",
+"code": "TCD",
+"Y2020": "16425859",
+"Y2021": "16914985"
+},{
+"country": "East Asia & Pacific (IDA & IBRD countries)",
+"code": "TEA",
+"Y2020": "2088186305",
+"Y2021": "2096155040"
+},{
+"country": "Europe & Central Asia (IDA & IBRD countries)",
+"code": "TEC",
+"Y2020": "462100263",
+"Y2021": "462624055"
+},{
+"country": "Togo",
+"code": "TGO",
+"Y2020": "8278737",
+"Y2021": "8478242"
+},{
+"country": "Thailand",
+"code": "THA",
+"Y2020": "69799978",
+"Y2021": "69950844"
+},{
+"country": "Tajikistan",
+"code": "TJK",
+"Y2020": "9537642",
+"Y2021": "9749625"
+},{
+"country": "Turkmenistan",
+"code": "TKM",
+"Y2020": "6031187",
+"Y2021": "6117933"
+},{
+"country": "Latin America & the Caribbean (IDA & IBRD countries)",
+"code": "TLA",
+"Y2020": "636492840",
+"Y2021": "642239838"
+},{
+"country": "Timor-Leste",
+"code": "TLS",
+"Y2020": "1318442",
+"Y2021": "1343875"
+},{
+"country": "Middle East & North Africa (IDA & IBRD countries)",
+"code": "TMN",
+"Y2020": "391344574",
+"Y2021": "398128866"
+},{
+"country": "Tonga",
+"code": "TON",
+"Y2020": "105697",
+"Y2021": "106759"
+},{
+"country": "South Asia (IDA & IBRD)",
+"code": "TSA",
+"Y2020": "1856882402",
+"Y2021": "1877902324"
+},{
+"country": "Sub-Saharan Africa (IDA & IBRD countries)",
+"code": "TSS",
+"Y2020": "1136046775",
+"Y2021": "1165563987"
+},{
+"country": "Trinidad and Tobago",
+"code": "TTO",
+"Y2020": "1399491",
+"Y2021": "1403374"
+},{
+"country": "Tunisia",
+"code": "TUN",
+"Y2020": "11818618",
+"Y2021": "11935764"
+},{
+"country": "Turkiye",
+"code": "TUR",
+"Y2020": "84339067",
+"Y2021": "85042736"
+},{
+"country": "Tuvalu",
+"code": "TUV",
+"Y2020": "11792",
+"Y2021": "11925"
+},{
+"country": "Tanzania",
+"code": "TZA",
+"Y2020": "59734213",
+"Y2021": "61498438"
+},{
+"country": "Uganda",
+"code": "UGA",
+"Y2020": "45741000",
+"Y2021": "47123533"
+},{
+"country": "Ukraine",
+"code": "UKR",
+"Y2020": "44132049",
+"Y2021": "43814581"
+},{
+"country": "Upper middle income",
+"code": "UMC",
+"Y2020": "2492597173",
+"Y2021": "2501427939"
+},{
+"country": "Uruguay",
+"code": "URY",
+"Y2020": "3473727",
+"Y2021": "3485152"
+},{
+"country": "United States",
+"code": "USA",
+"Y2020": "331501080",
+"Y2021": "331893745"
+},{
+"country": "Uzbekistan",
+"code": "UZB",
+"Y2020": "34232050",
+"Y2021": "34915100"
+},{
+"country": "St. Vincent and the Grenadines",
+"code": "VCT",
+"Y2020": "110947",
+"Y2021": "111269"
+},{
+"country": "Venezuela, RB",
+"code": "VEN",
+"Y2020": "28435943",
+"Y2021": "28704947"
+},{
+"country": "British Virgin Islands",
+"code": "VGB",
+"Y2020": "30237",
+"Y2021": "30423"
+},{
+"country": "Virgin Islands (U.S.)",
+"code": "VIR",
+"Y2020": "106290",
+"Y2021": "105870"
+},{
+"country": "Vietnam",
+"code": "VNM",
+"Y2020": "97338583",
+"Y2021": "98168829"
+},{
+"country": "Vanuatu",
+"code": "VUT",
+"Y2020": "307150",
+"Y2021": "314464"
+},{
+"country": "World",
+"code": "WLD",
+"Y2020": "7763932702",
+"Y2021": "7836630792"
+},{
+"country": "Samoa",
+"code": "WSM",
+"Y2020": "198410",
+"Y2021": "200144"
+},{
+"country": "Kosovo",
+"code": "XKX",
+"Y2020": "1790133",
+"Y2021": "1806279"
+},{
+"country": "Yemen, Rep.",
+"code": "YEM",
+"Y2020": "29825968",
+"Y2021": "30490639"
+},{
+"country": "South Africa",
+"code": "ZAF",
+"Y2020": "59308690",
+"Y2021": "60041996"
+},{
+"country": "Zambia",
+"code": "ZMB",
+"Y2020": "18383956",
+"Y2021": "18920657"
+},{
+"country": "Zimbabwe",
+"code": "ZWE",
+"Y2020": "14862927",
+"Y2021": "15092171"
+}]
