@@ -1,6 +1,7 @@
 <p align="center" >
 <div align="center" >
 <img src="https://github.com/waseemofficial/DSA_Python/blob/main/Images/github_logo_blue.png"/>
+
 </div>
 
 <div align="center">
@@ -9,6 +10,9 @@
 <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/>
+<img src="https://img.shields.io/badge/code%20style-black-000000.svg"/>
+
+
 </div></p>
 
 
@@ -21,11 +25,6 @@
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![Golang](https://img.shields.io/badge/-Golang-000?&logo=Go)
-![Java](https://img.shields.io/badge/-Java-000?&logo=jdk)
-![Solidity](https://img.shields.io/badge/-Solidity-000?&logo=Solidity)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![Bash](https://img.shields.io/badge/-Bash-000?&logo=gnu-bash&logoColor=white)
 ![Bash](https://img.shields.io/badge/-markdown-000?&logo=markdown)
 
@@ -33,24 +32,31 @@
 
 ### Technologies
 
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
-![Cypress](https://img.shields.io/badge/-Postman-000?&logo=Postman)
-![Cypress](https://img.shields.io/badge/-Cypress-000?&logo=Cypress)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
-![GitHub](https://img.shields.io/badge/-Selenium-000?&logo=Selenium)
-![GitHub](https://img.shields.io/badge/-Regex-000?&logo=Regex)
-![GithubActions](https://img.shields.io/badge/-GithubActions-000?&logo=GithubActions)
 </div>
 <div align="left">
  
-# Title
+# CLI Using Click 
 
-==Array==
 </div>
-==Array==
+
+### Setup
+```py
+from setuptools import setup, find_packages
+setup(
+    name="my_first_cli",
+    version="0.0.1",
+    py_modules=["main"],
+    include_requires=["click"],
+    entry_points={"console_scripts": ["cli=CLI.main:main_cli"]},
+)
+
+```
+
+using setup tools we can create a cli tool.
+`pip install --editable .`
 
 
+## CSV file viewer
+`cli viewers csv ./data/population.csv --has-header -n 10 --format github`
