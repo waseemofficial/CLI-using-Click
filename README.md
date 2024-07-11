@@ -71,12 +71,12 @@ using setup tools we can create a cli tool.
 ## Logging
 `cli logging`
 
-<img src="https://github.com/waseemofficial/CLI-using-Click/blob/main/CLI/Recordings/logging.gif" width="1400" height="800"/>
+<img src="https://github.com/waseemofficial/CLI-using-Click/blob/main/CLI/Recordings/logging.gif" width="1000" height="800"/>
 
 ## Table
 `cli table`
 
-<img src="https://github.com/waseemofficial/CLI-using-Click/blob/main/CLI/Recordings/table.gif" width="1400" height="800"/>
+<img src="https://github.com/waseemofficial/CLI-using-Click/blob/main/CLI/Recordings/table.gif" width="1000" height="800"/>
 ## CSV file viewer
 `cli viewers csv ./data/population.csv --has-header -n 10 --format github`
 
