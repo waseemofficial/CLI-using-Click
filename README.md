@@ -71,7 +71,7 @@ using setup tools we can create a cli tool.
 ## Logging
 `cli logging`
 
-<img src="https://github.com/waseemofficial/CLI-using-Click/blob/main/CLI/Recordings/logging.gif" width="40" height="40"/>
+<img src="https://github.com/waseemofficial/CLI-using-Click/blob/main/CLI/Recordings/logging.gif" width="1600" height="800"/>
 
 ## CSV file viewer
 `cli viewers csv ./data/population.csv --has-header -n 10 --format github`
