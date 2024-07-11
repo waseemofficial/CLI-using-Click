@@ -54,9 +54,30 @@ setup(
 
 ```
 
+#### Using VHS for gif Recording
+
+### instalarion 
+
+> `scoop install vhs`
+
+### for recording
+
+> `vhs new <fileName>.tape`
+
+
 using setup tools we can create a cli tool.
 `pip install --editable .`
 
+## Logging
+`cli logging`
+
+<img src="https://github.com/waseemofficial/CLI-using-Click/blob/main/CLI/Recordings/logging.gif" width="40" height="40"/>
 
 ## CSV file viewer
 `cli viewers csv ./data/population.csv --has-header -n 10 --format github`
+
+## convert CSV to JSON
+`cli converters csv -i ./data/population.csv -o ./data/test.json --has-headers --columns country -c code -c Y2020 -c Y2021`
+
+## View JSON file 
+`cli viewers json ./data/test.json -n 25`
